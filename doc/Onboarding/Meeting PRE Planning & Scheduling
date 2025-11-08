@@ -1,45 +1,9 @@
-# 📋 Project Action Item Tracker
+# HP–Movate Collaboration Tracker  
+> **Project:** CX Journey & Integration Initiative  
+> **Last Updated:** 08-Nov-2025  
+> **Maintained by:** Team Movate  
 
-This document serves as the central log for tracking all key decisions, deliverables, and progress updates related to the project.
-
----
-
-## 📅 Action Item Status Summary
-
-| Status | Count |
-| :---: | :---: |
-| **Completed** | 12 |
-| **On Going** | 2 |
-| **In Progress** | 2 |
-
----
-
-## 📝 Detailed Action Item Log
-
-This table details all tasks, owners, current updates, and target completion dates.
-
-| Sr No | Date | Action Item | Owner | Update's | ETA | Status |
-| :---: | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 25-Sep-24 | Weekly Call: Scheduled for **Thursdays at 6:30 PM**. | Mandeep | Zoom invite shared. | 30-Sep-24 | Completed |
-| 2 | 25-Sep-24 | Wait Time/Queue: Check if system can indicate wait times. | Sohom / Chellam | Tech team confirmed feature can be made available. Requires **4 - 6 Sprints** for development. | 17-Oct-24 | Completed |
-| 3 | 25-Sep-24 | Changes to be made in the CX Journey diagram. | Hemant | Changes made to the CX Journey diagram. Shiva & Pushpa to review and provide feedback. | 7-Nov-24 | On Going |
-| 4 | 25-Sep-24 | Create **Business Requirement Document** (`BRD`) and **Scope Document**. | Hemant | Draft version (V.2) is up to date with all discussions. | 7-Nov-24 | On Going |
-| 5 | 18-Sep-24 | SharePoint link to facilitate information sharing between HP & Movate. | Amar | Received the SharePoint link and have access. | 4-Oct-24 | Completed |
-| 6 | 18-Sep-24 | Compile list of items needed from HP (documentation, data, contacts) organized by product type. | Amar | | 17-Oct-24 | Completed |
-| 7 | 18-Sep-24 | Consider use of directly or Movate emails for gigs (Legal/InfoSec consultation). | Mandeep | Addressed through: **OnDemand - Email Id Aliases Creation and Management**. | 17-Oct-24 | Completed |
-| 8 | 18-Sep-24 | Share list of authentication methods required, such as Two-Factor Authentication (`2FA`). | Pushpa | Detailed discussion complete; incorporated in the Arch Diagram shared by Movate. | 24-Oct-24 | Completed |
-| 9 | 18-Sep-24 | Share **API documentation**, including relevant integration details. | Sohom / Chellam | Shared API document with Pusha and team. | 1-Oct-24 | Completed |
-| 10 | 25-Sep-24 | Response to Movate questionary. | Pushpa | Received questionary response from team HP. | 3-Oct-24 | Completed |
-| 11 | 3-Oct-24 | Clarification questions to be reviewed by team Movate and respond. | Pushpa | Team Movate is reviewing shared details.<br>**Action:** HP team to share case records (chat transcripts) post Cyber review. | TBD | In Progress |
-| 12 | 3-Oct-24 | Creating the technical architecture diagram and reviewing with team HP. | Sohom / Chellam | Architecture diagram shared with HP team. | 3-Oct-24 | Completed |
-| 13 | 3-Oct-24 | Call to be set up with HP's process engineering team to discuss documentation and logics. | Karthik / Amar | HP engineers invited for call to walk through the process documentation and Logics. | 10-Oct-24 | Completed |
-| 14 | 3-Oct-24 | Criteria for cases that should go to Tier 1 vs Tier 2 will be defined. | Hemant | Criteria updated and incorporated into the CX journey and BRD. | 10-Oct-24 | Completed |
-| 15 | 3-Oct-24 | Volume drivers and patterns to help define the solution need to be provided (Call drivers for PC and Printer). | Pushpa | Will be shared by HP team post Cyber review. | TBD | In Progress |
-| 16 | 17-Mar-24 | Share Architect diagram with team HP. | Chellam | Architect diagram shared with Push & Mandeep. | 10-Nov-24 | Completed |
-
----
-
-## ⏭️ Next Steps
-
-* **Review:** Shiva & Pushpa to review the updated **CX Journey diagram** (`Item 3`).
-* **Data Share:** Finalize the sharing of **Case Records/Transcripts** (`Item 11`) and **Volume Drivers** (`Item 15`) with Movate team, pending cyber review completion.
+![Status](https://img.shields.io/badge/Project-Active-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0-purple)
+![Contributors](https://img.shields.io/badge/Contributors-HP%20%26%20Movate-teal)
+![Updated](https://img.shields.io/badge/Last%20Update-08--Nov--2025-brightgreen)

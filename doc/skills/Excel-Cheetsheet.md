@@ -52,4 +52,31 @@ Formulas used for manipulating, joining, or splitting text strings.
 
 > **Note:** [Add any extra tips, warnings, or "gotchas" here.]
 
+### **Excel-Contributions:**
+
+<details> 
+  <summary> 
+  <strong>➡️ Click to copy the Excel Formula Template</strong> 
+  </summary>
+  
+Note: Copy the code block below to add a new Excel formula to the main Excel-formulas.md.
+
+
+> **Problem:** [A short description of the problem you are solving.]
+>
+> **Solution:** [Name the formula you are using, e.g., `TEXTSPLIT`.]
+
+#### **Formula:**
+
+` ``excel
+[Your Formula Here, e.g., =TEXTSPLIT(A1, "-")]
+` ``
+
+#### **How it Works:**
+
+* `[Part 1]`: [Explanation of the first part]
+* `[Part 2]`: [Explanation of the second part]
+
+> **Note:** [Add any extra tips, warnings, or "gotchas" here.]
+
 </details>

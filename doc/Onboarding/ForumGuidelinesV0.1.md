@@ -2,7 +2,7 @@
 
 | SL. No | Title | Ownership | Reviewed (Y/N - Role) | Note | Channel (Forum/Blocking Task/Email) | Shared (Y/N) |
 | :---: | :--- | :--- | :--- | :--- | :--- | :---: |
-| 1 | Guideline: Forum Code of Conduct - read before you post! | CM/ADM | Y – CM/ADM | Need to add few points on Implementing/<br>Attention to Operation team Announcement/Post - ADM | Forum Post (Announcement) | Y/N |
+| 1 | Guideline: Forum Code of Conduct - read before you post! | CM/Manager | Y – CM/Manager | Need to add few points on Implementing/<br>Attention to Operation team Announcement/Post - CM/Manager | Forum Post (Announcement) | Y/N |
 | | | | | | | |
 
 

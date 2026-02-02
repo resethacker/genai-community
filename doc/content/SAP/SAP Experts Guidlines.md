@@ -1,12 +1,30 @@
-## Guidance for SAP Experts
 
-1. Understanding Tickets Information:
-2. Guidance on Introducing, first response, reroute, closing tickets and response time expectations in SAP
-3. Best practices for Tickets Handling
-4. URGENTLY Reroute: How to Handle Urgent or High-Priority Issues?
-5. Offline Routing of Cases
-6. How to Address or Reroute tickets related to specific SAP products & Services: 
+## Forum Annoucement - Guidance for SAP Experts 
+Hey SAP Experts,
 
+We’ve important Guidance for SAP Experts. Moving forward, please ensure that you fully comprehend the details and follow the context of the Guidance for SAP Experts when engaging with customers. : 
+
+1. Understanding Tickets Information
+2. Best practices for Tickets Handling
+3. How to Handle Urgent or High-Priority Issues
+4. Proper Routing of Cases
+5. Addressing Tickets related to specific SAP products and Services 
+6. AI guidance: Strict Ban on Non-SAP LLM/AI Usage in the SAP Network.
+
+Education Material for New SAP Experts (Additional)
+- OnDemand Experts Orientation
+- SAP Resources for new Experts
+
+Thank you for your attention and if you need clarification at all, feel free to comment on this—I’m here to help you.
+
+Vicky Kumar
+Community Manager
+Ondemand- Movate 
+
+Disclaimer: As we progress, we reserve the right to make changes to these guidelines as requested by the SAP team.
+
+===================================================
+## Guidance for SAP Experts - Article
 
 1. Understanding Tickets Information:
 

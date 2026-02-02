@@ -17,6 +17,9 @@
 ##### Mediaum 
 - [Medium Writeups](https://resethackerofficial.medium.com/)
 
+##### FaceBook 
+- [FaceBook Business](https://m.facebook.com/resethackerofficial/)
+
 ##### Discord
 - [Discord](https://discord.com/invite/HbM3435JcX)
 
@@ -31,6 +34,13 @@
 - Updating Soon
 
 ###### Quora 
+- Updating Soon
+
+
+##### Microsoft Q&A Learn Platfrom
+- Updating Soon
+
+##### Slack 
 - Updating Soon
 
 

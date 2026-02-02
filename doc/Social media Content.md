@@ -6,7 +6,7 @@
 
 [AI Tools and Writeups](https://github.com/attrib07/geeknavi-lecture-summarizer)
 
-[Newsletter - Open Source](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
+[Newsletter - Open Source Github](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
  
 [Medium Writeups](https://resethackerofficial.medium.com/)
  

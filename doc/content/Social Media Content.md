@@ -1,7 +1,9 @@
 ### Socail Media and Content
 
 ###### SAP ()
-- []()
+- [SAP Cutomer Engagement Gudilines](https://github.com/resethacker/genai-community/tree/main/doc/content/SAP)
+- [SAP Forum Gudilines]()
+- [SAP Experts Onboardeding]()
 
 ##### INSTAGRAM
 - [Instagram](https://instagram.com/resethacker/)
